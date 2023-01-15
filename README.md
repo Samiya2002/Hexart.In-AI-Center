@@ -1,4 +1,4 @@
-# Hexast.In Internship Project
+# Hexast.In Internship Projects
 This repository consist of my *Hexart.In* projects.
 ## This consist of three project
 1. Flipkart Reviews Sentiment Analysis using Python
