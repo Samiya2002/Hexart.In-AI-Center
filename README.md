@@ -4,7 +4,7 @@ This repository consists of my *Hexart.In* projects.
 1. Flipkart Reviews Sentiment Analysis using Python
 2. Train and Give Inputs to a Machine Learning Model
 3. Classification with Neural Networks using Python
-# REPOSITORY Details
+## REPOSITORY Details
 All python code in the Jupyter Notebooks directory
 Required datasets are present in DATASETS directory
 For more details check the ppts in PPT directory
