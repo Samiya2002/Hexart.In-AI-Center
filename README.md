@@ -20,4 +20,4 @@ In this task, we are required to train a model and give inputs to them. Here, we
 *Cassification*is a type of supervised machine learning algorithm and is described as the process of recognizing, comprehending, and categorizing things and thoughts into predefined groups, also known as "subpopulations." *Artificial neural networks (ANN)* more commonly referred to as neural networks (NN), are computing systems inspired by the biological neural networks that constitute human brains. Artificial neural networks (ANNs) consist of node layers, containing an input layer, one or more hidden layers, and an output layer.
 
 # Directory Structure
-![hmm](https://user-images.githubusercontent.com/84663947/212547014-e39ea6b6-cb8e-415e-bd68-9bd49adda392.jpg)
+![image](https://user-images.githubusercontent.com/84663947/212552403-20704284-045a-4c2b-a647-e22a4be9dc22.png)
