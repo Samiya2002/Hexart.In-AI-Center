@@ -5,9 +5,11 @@ This repository consists of my *Hexart.In* projects.
 2. Train and Give Inputs to a Machine Learning Model
 3. Classification with Neural Networks using Python
 ## REPOSITORY Details
-All python code in the Jupyter Notebooks directory
-Required datasets are present in DATASETS directory
-For more details check the ppts in PPT directory
+• All python code in the Jupyter Notebooks directory
+
+• Required datasets are present in DATASETS directory
+
+• For more details check the ppts in PPT directory
 # About Project
 All the three projects are done as a part of "Hexart.In" Internship.
 ## 1. Flipkart Reviews Sentimental Analysis
